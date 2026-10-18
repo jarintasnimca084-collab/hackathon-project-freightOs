@@ -1,0 +1,2177 @@
+[
+  {
+    "id": "2986888P",
+    "pair": "2986545",
+    "leg": "Delivery",
+    "customer": "CUST-F0BBED42",
+    "address": "941 ST CLAIR AVE W TORONTO A 3 ON CAN M6C1C7",
+    "coords": [
+      43.6326,
+      -79.3969
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 1200,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986541D",
+    "pair": "2986541",
+    "leg": "Delivery",
+    "customer": "CUST-317D3221",
+    "address": "223 REDPATH AVE TORONTO 3010 ON CAN M4P0E8",
+    "coords": [
+      43.6514,
+      -79.3699
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 14200,
+    "linearFt": 22,
+    "skids": 11,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986539D",
+    "pair": "2986539",
+    "leg": "Delivery",
+    "customer": "CUST-F6C9FA80",
+    "address": "40 TANGMERE RD TORONTO  ON CAN M3B2N3",
+    "coords": [
+      43.65,
+      -79.3989
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 4800,
+    "linearFt": 8,
+    "skids": 4,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2985848D",
+    "pair": "2985848",
+    "leg": "Delivery",
+    "customer": "CUST-49149CEF",
+    "address": "2740 PETER MATTHEWS DR PICKERING  ON CAN L1X 0M3",
+    "coords": [
+      43.8479,
+      -79.0991
+    ],
+    "service": "OUT OF TOWN",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 4800,
+    "linearFt": 8,
+    "skids": 4,
+    "pieces": 2,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2985849D",
+    "pair": "2985849",
+    "leg": "Delivery",
+    "customer": "CUST-49149CEF",
+    "address": "2740 PETER MATTHEWS DR PICKERING  ON CAN L1X 0M3",
+    "coords": [
+      43.8657,
+      -79.0871
+    ],
+    "service": "OUT OF TOWN",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 1200,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "Skid",
+    "appointmentStart": "11:00",
+    "appointmentEnd": "13:00",
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986405D",
+    "pair": "2986405",
+    "leg": "Delivery",
+    "customer": "CUST-AC10158F",
+    "address": "756 ASPEN RD PICKERING  ON CAN L1V3S3",
+    "coords": [
+      43.8626,
+      -79.1044
+    ],
+    "service": "OUT OF TOWN",
+    "equipment": "CAR",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 2400,
+    "linearFt": 4,
+    "skids": 2,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": "08:00",
+    "appointmentEnd": "10:00",
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2985856D",
+    "pair": "2985856",
+    "leg": "Delivery",
+    "customer": "CUST-B88893ED",
+    "address": "1607 RAYLEEN CR PICKERING  ON CAN L1X1X4",
+    "coords": [
+      43.8151,
+      -79.0905
+    ],
+    "service": "OUT OF TOWN",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 1200,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": "11:00",
+    "appointmentEnd": "13:00",
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986299D",
+    "pair": "2986299",
+    "leg": "Delivery",
+    "customer": "CUST-940109E8",
+    "address": "255 VILLAGE GREEN SQ SCARBOROUGH 2502 ON CAN M1S0L7",
+    "coords": [
+      43.7787,
+      -79.2132
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 4800,
+    "linearFt": 8,
+    "skids": 4,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986454D",
+    "pair": "2986454",
+    "leg": "Delivery",
+    "customer": "CUST-195DC466",
+    "address": "2150 LAWRENCE AVE E SCARBOROUGH 1611 ON CAN M1R3A7",
+    "coords": [
+      43.7519,
+      -79.2074
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 2400,
+    "linearFt": 4,
+    "skids": 2,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": "08:00",
+    "appointmentEnd": "10:00",
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986002D",
+    "pair": "2986002",
+    "leg": "Delivery",
+    "customer": "CUST-C3E7F012",
+    "address": "3060 DANFORTH AVE TORONTO  ON CAN M4C1N2",
+    "coords": [
+      43.6571,
+      -79.375
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 8500,
+    "linearFt": 14,
+    "skids": 7,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986408D",
+    "pair": "2986408",
+    "leg": "Delivery",
+    "customer": "CUST-6B1AC3F3",
+    "address": "2702 LAWRENCE AVE E TORONTO 117 ON CAN M1P2S6",
+    "coords": [
+      43.6318,
+      -79.4118
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 14200,
+    "linearFt": 22,
+    "skids": 11,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2987094D",
+    "pair": "2987094",
+    "leg": "Delivery",
+    "customer": "CUST-4959FB52",
+    "address": "46 DURIE LANE THORNHILL  ON CAN L3T5H5",
+    "coords": [
+      43.6454,
+      -79.4154
+    ],
+    "service": "RUSH",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 650,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "Skid",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "estimated",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2985840D",
+    "pair": "2985840",
+    "leg": "Delivery",
+    "customer": "CUST-392481AD",
+    "address": "935 B SOUTHGATE DRIVE GUELPH ON CAN N1L 0B9",
+    "coords": [
+      43.6933,
+      -79.4221
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 980,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986480D",
+    "pair": "2986480",
+    "leg": "Delivery",
+    "customer": "CUST-3C5B7E2F",
+    "address": "160 KNOTRIGHT ROAD WEST GUELPH ON CAN N1G 4W2",
+    "coords": [
+      43.6379,
+      -79.3927
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 500,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986657D",
+    "pair": "2986657",
+    "leg": "Delivery",
+    "customer": "CUST-A4FAB15F",
+    "address": "1185 FRANKLIN BLVD CAMBRIDGE UNIT 1 ON CAN N1R 7Y5",
+    "coords": [
+      43.6208,
+      -79.3519
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1085,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986641D",
+    "pair": "2986641",
+    "leg": "Delivery",
+    "customer": "CUST-2DCFC925",
+    "address": "26 PINEBUSH ROAD CAMBRIDGE  ON CAN N1R 8K5",
+    "coords": [
+      43.6507,
+      -79.4052
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 137,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986668D",
+    "pair": "2986668",
+    "leg": "Delivery",
+    "customer": "CUST-B8649083",
+    "address": "4396 KING ST E KITCHENER  ON CAN N2G 3W6",
+    "coords": [
+      43.6962,
+      -79.3454
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 380,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986670D",
+    "pair": "2986670",
+    "leg": "Delivery",
+    "customer": "CUST-B8649083",
+    "address": "4396 KING ST E KITCHENER  ON CAN N2G 3W6",
+    "coords": [
+      43.6892,
+      -79.3513
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 380,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986152D",
+    "pair": "2986152",
+    "leg": "Delivery",
+    "customer": "CUST-90EDA45D",
+    "address": "4396 KING STREET KITCHENER ON CAN N2P 2G4",
+    "coords": [
+      43.6529,
+      -79.3829
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 630,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986617D",
+    "pair": "2986617",
+    "leg": "Delivery",
+    "customer": "CUST-885E665B",
+    "address": "1581 OXFORD ST E LONDON  ON CAN N5V 2Z4",
+    "coords": [
+      43.6505,
+      -79.4216
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1260,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986652D",
+    "pair": "2986652",
+    "leg": "Delivery",
+    "customer": "CUST-31070F1C",
+    "address": "45 YORK STREET LONDON  ON CAN N6A 1A4",
+    "coords": [
+      43.6066,
+      -79.3838
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 697,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986659D",
+    "pair": "2986659",
+    "leg": "Delivery",
+    "customer": "CUST-D253BDF0",
+    "address": "703 EXETER ROAD LONDON  ON CAN N6E 1L3",
+    "coords": [
+      43.6543,
+      -79.3507
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 601,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986887P",
+    "pair": "2986887",
+    "leg": "Pickup",
+    "customer": "CUST-F02708FB",
+    "address": "7171 TORBRAM RD #46 - 47 MISSISSAUGA ON CAN L4T 3W4",
+    "coords": [
+      43.5815,
+      -79.6667
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "crossdock",
+    "weight": 207,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2982081D",
+    "pair": "2982081",
+    "leg": "Delivery",
+    "customer": "CUST-4794A70F",
+    "address": "1330 SOUTH SERVICE RD STONEY CREEK  ON CAN L8E 5C5",
+    "coords": [
+      43.6292,
+      -79.3526
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 320,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986072D",
+    "pair": "2986072",
+    "leg": "Delivery",
+    "customer": "CUST-75895446",
+    "address": "86 MAIN STREET DUNDAS ON CAN L9H 6P8",
+    "coords": [
+      43.6338,
+      -79.353
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 230,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986113D",
+    "pair": "2986113",
+    "leg": "Delivery",
+    "customer": "CUST-76A667A7",
+    "address": "37 WOODYATT DR BRANTFORD ON CAN N3R 7K3",
+    "coords": [
+      43.666,
+      -79.3353
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 2600,
+    "linearFt": 4,
+    "skids": 2,
+    "pieces": 4,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986114D",
+    "pair": "2986114",
+    "leg": "Delivery",
+    "customer": "CUST-76A667A7",
+    "address": "37 WOODYATT DR BRANTFORD ON CAN N3R 7K3",
+    "coords": [
+      43.6677,
+      -79.3973
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 2600,
+    "linearFt": 4,
+    "skids": 2,
+    "pieces": 4,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986317D",
+    "pair": "2986317",
+    "leg": "Delivery",
+    "customer": "CUST-0267C959",
+    "address": "490 ELGIN ST BRANTFORD ON CAN N3S 7P8",
+    "coords": [
+      43.6195,
+      -79.3382
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "Dangerous Goods - Regulated Chemicals (UN 1993)",
+    "weight": 325,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986311D",
+    "pair": "2986311",
+    "leg": "Delivery",
+    "customer": "CUST-399B3A85",
+    "address": "655 COLBORNE ST E BRANTFORD ON CAN N3S 3M8",
+    "coords": [
+      43.6225,
+      -79.3491
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1068,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986305D",
+    "pair": "2986305",
+    "leg": "Delivery",
+    "customer": "CUST-132821F7",
+    "address": "40 ICOMM DR BRANTFORD ON CAN N3S 7S9",
+    "coords": [
+      43.6983,
+      -79.3992
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 320,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "unassigned",
+    "vehicle": "",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986700P",
+    "pair": "2986028",
+    "leg": "Delivery",
+    "customer": "CUST-984D06BE",
+    "address": "1433 CHIEFSWOOD ROAD OHSWEKEN  ON CAN N0A 1M0",
+    "coords": [
+      43.6235,
+      -79.3517
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 230,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986700D",
+    "pair": "2986146",
+    "leg": "Delivery",
+    "customer": "CUST-A4A50714",
+    "address": "773451 OXFORD ST 59 NORWICH  ON CAN N0J 1P0",
+    "coords": [
+      43.7013,
+      -79.3355
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 600,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986545D",
+    "pair": "2986695",
+    "leg": "Pickup",
+    "customer": "CUST-CDB70334",
+    "address": "51 FOLSETTER DR 1 BRANT ON CAN N3L 0E2",
+    "coords": [
+      43.6367,
+      -79.3619
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "crossdock",
+    "weight": 400,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": "13:00",
+    "appointmentEnd": "15:00",
+    "status": "at-risk",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986436P",
+    "pair": "2986436",
+    "leg": "Pickup",
+    "customer": "CUST-3A1F7947",
+    "address": "100 LEGEND COURT  ANCASTER ON CAN L9K 1J3",
+    "coords": [
+      43.6127,
+      -79.3927
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1000,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986398D",
+    "pair": "2986398",
+    "leg": "Delivery",
+    "customer": "CUST-B3048601",
+    "address": "5590 FINCH AVE EAST SCARBOROUGH UNIT#2 ON CAN M1B 2G9",
+    "coords": [
+      43.7951,
+      -79.2418
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 600,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986428D",
+    "pair": "2986428",
+    "leg": "Delivery",
+    "customer": "CUST-32B20D6D",
+    "address": "1160 BELLAMY ROAD N SCARBOROUGH  ON CAN M1H 1H2",
+    "coords": [
+      43.7922,
+      -79.2145
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1700,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PLT, SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986569D",
+    "pair": "2986569",
+    "leg": "Delivery",
+    "customer": "CUST-32B20D6D",
+    "address": "1160 BELLAMY ROAD N SCARBOROUGH  ON CAN M1H 1H2",
+    "coords": [
+      43.8047,
+      -79.2112
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1700,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PLT, SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986502D",
+    "pair": "2986502",
+    "leg": "Delivery",
+    "customer": "CUST-E86AA2BE",
+    "address": "515 MILNER AVE SCARBOROUGH 6 ON CAN M1B 2K9",
+    "coords": [
+      43.7757,
+      -79.2381
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1087,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986647D",
+    "pair": "2986647",
+    "leg": "Delivery",
+    "customer": "CUST-724E0B6E",
+    "address": "850 MILNER AVE SCARBOROUGH  ON CAN M1B 5N7",
+    "coords": [
+      43.7833,
+      -79.2586
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 139,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986315D",
+    "pair": "2986315",
+    "leg": "Delivery",
+    "customer": "CUST-C3ADD2DC",
+    "address": "888 DURHAM LIVE AVE PICKERING  ON CAN L1W 0C1",
+    "coords": [
+      43.8443,
+      -79.1021
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 600,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986769P",
+    "pair": "2986769",
+    "leg": "Pickup",
+    "customer": "CUST-B455D158",
+    "address": "30 PRODUCTION DR  SCARBOROUGH ON CAN M1H 2X8",
+    "coords": [
+      43.7798,
+      -79.2212
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 400,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986581P",
+    "pair": "2986581",
+    "leg": "Pickup",
+    "customer": "CUST-28E84D59",
+    "address": "3480 PHARMACY AVE  SCARBOROUGH ON CAN M1W 3G3",
+    "coords": [
+      43.8037,
+      -79.2311
+    ],
+    "service": "RUSH",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1200,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 3,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986581D",
+    "pair": "2986581",
+    "leg": "Delivery",
+    "customer": "CUST-599AC370",
+    "address": "5 BOORINGTON COURT MARKHAM  ON CAN L6G 1A6",
+    "coords": [
+      43.8665,
+      -79.3295
+    ],
+    "service": "RUSH",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 1200,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 3,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986616D",
+    "pair": "2986616",
+    "leg": "Delivery",
+    "customer": "CUST-E972B118",
+    "address": "4568 TOMKEN RD MISSISSAUGA  ON CAN L4W 1J8",
+    "coords": [
+      43.5685,
+      -79.6187
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 2630,
+    "linearFt": 4,
+    "skids": 2,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "at-risk",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986671D",
+    "pair": "2986671",
+    "leg": "Delivery",
+    "customer": "CUST-6069DF9A",
+    "address": "1995 DUNDAS ST E. MISSISSAUGA ON CAN L4X 2X1",
+    "coords": [
+      43.5689,
+      -79.6631
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 416,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": "09:00",
+    "appointmentEnd": "11:00",
+    "status": "assigned",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986633D",
+    "pair": "2986633",
+    "leg": "Delivery",
+    "customer": "CUST-0E495D52",
+    "address": "2190 WINSTON PARK OAKVILLE ON CAN L6H5W1",
+    "coords": [
+      43.4701,
+      -79.7087
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 97,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986137D",
+    "pair": "2986137",
+    "leg": "Delivery",
+    "customer": "CUST-3FF3B253",
+    "address": "3315 FAIRVIEW ST BURLINGTON  ON CAN L7N 3N9",
+    "coords": [
+      43.6524,
+      -79.3928
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 620,
+    "linearFt": 8,
+    "skids": 4,
+    "pieces": 4,
+    "pieceType": "PCS",
+    "appointmentStart": "08:00",
+    "appointmentEnd": "10:00",
+    "status": "assigned",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986316D",
+    "pair": "2986316",
+    "leg": "Delivery",
+    "customer": "CUST-17D18669",
+    "address": "390 PEARL STREET BURLINGTON  ON CAN L7R 2M9",
+    "coords": [
+      43.6911,
+      -79.4127
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 115,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-445",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986507D",
+    "pair": "2986507",
+    "leg": "Delivery",
+    "customer": "CUST-B74B7DB1",
+    "address": "23 INDUSTRIAL DRIVE CALEDONIA  ON CAN N3W 1H8",
+    "coords": [
+      43.6957,
+      -79.3938
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 290,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-502",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986225D",
+    "pair": "2986225",
+    "leg": "Delivery",
+    "customer": "CUST-56CDB6FE",
+    "address": "100 SASAGA DR KITCHENER  ON CAN N2C 2G7",
+    "coords": [
+      43.6486,
+      -79.3624
+    ],
+    "service": "HEATED SERVICE",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 3960,
+    "linearFt": 6,
+    "skids": 3,
+    "pieces": 4,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986289D",
+    "pair": "2986289",
+    "leg": "Delivery",
+    "customer": "CUST-1329B660",
+    "address": "137 GLASGOW ST KITCHENER 115-DK 30- ON CAN N2G 4X8",
+    "coords": [
+      43.6574,
+      -79.3871
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 700,
+    "linearFt": 1,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986333D",
+    "pair": "2986333",
+    "leg": "Delivery",
+    "customer": "CUST-E1483126",
+    "address": "130 DEARBORN PLACE WATERLOO  ON CAN N2J 4N5",
+    "coords": [
+      43.6562,
+      -79.3541
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 4650,
+    "linearFt": 6,
+    "skids": 3,
+    "pieces": 4,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2985733D",
+    "pair": "2985733",
+    "leg": "Delivery",
+    "customer": "CUST-56EB1A55",
+    "address": "824 ELDERSLIE ARRAN TLINE DOBBINTON  ON CAN N0H 1L0",
+    "coords": [
+      43.6342,
+      -79.342
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 543,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986932P",
+    "pair": "2986932",
+    "leg": "Pickup",
+    "customer": "CUST-837BE5E2",
+    "address": "1039 CARDIFF BLVD  MISSISSAUGA ON CAN L5S 1P4",
+    "coords": [
+      43.5795,
+      -79.6592
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 450,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986686P",
+    "pair": "2986686",
+    "leg": "Pickup",
+    "customer": "CUST-856FFF16",
+    "address": "3800 LAIRD RD A - #7 MISSISSAUGA ON CAN L5L 0B2",
+    "coords": [
+      43.5877,
+      -79.621
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "CAR",
+    "specialHandling": "",
+    "weight": 6,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PCS",
+    "appointmentStart": "14:00",
+    "appointmentEnd": "16:00",
+    "status": "assigned",
+    "vehicle": "T-445",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "provided",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986354D",
+    "pair": "2986354",
+    "leg": "Delivery",
+    "customer": "CUST-85244DE9",
+    "address": "1335 TAPSCOTT RD SCARBOROUGH  ON CAN M1X 0C6",
+    "coords": [
+      43.7508,
+      -79.2612
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 500,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-502",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986135D",
+    "pair": "2986135",
+    "leg": "Delivery",
+    "customer": "CUST-D551D13B",
+    "address": "104 SHORTING RD SCARBOROUGH  ON CAN M1S 3S4",
+    "coords": [
+      43.7523,
+      -79.2501
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 345,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986223D",
+    "pair": "2986223",
+    "leg": "Delivery",
+    "customer": "CUST-B89A57C9",
+    "address": "400 ESNA PARK DR MARKHAM  ON CAN L3R 3K2",
+    "coords": [
+      43.8447,
+      -79.3286
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 870,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 4,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986516D",
+    "pair": "2986516",
+    "leg": "Delivery",
+    "customer": "CUST-B89A57C9",
+    "address": "400 ESNA PARK DR MARKHAM  ON CAN L3R 3K2",
+    "coords": [
+      43.8457,
+      -79.3305
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 870,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 4,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986246D",
+    "pair": "2986246",
+    "leg": "Delivery",
+    "customer": "CUST-B421BD31",
+    "address": "100 ALDEN RD MARKHAM ON CAN L3R 4C1",
+    "coords": [
+      43.8549,
+      -79.3491
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 203,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986210D",
+    "pair": "2986210",
+    "leg": "Delivery",
+    "customer": "CUST-64209F6D",
+    "address": "115 SHIEDS COURT MARKHAM  ON CAN L3R 9T5",
+    "coords": [
+      43.8742,
+      -79.3446
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 190,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986336D",
+    "pair": "2986336",
+    "leg": "Delivery",
+    "customer": "CUST-5A24D54D",
+    "address": "60 LEEK CR RICHMOND HILL #2 ON CAN L4B 1H1",
+    "coords": [
+      43.8921,
+      -79.4339
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "tailgate, crossdock, inside delivery, pump truck",
+    "weight": 1500,
+    "linearFt": 6,
+    "skids": 3,
+    "pieces": 3,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-445",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986337D",
+    "pair": "2986337",
+    "leg": "Delivery",
+    "customer": "CUST-FD97890E",
+    "address": "60 LEEK CRES RICHMOND HILL 2 ON CAN L4B 1H1",
+    "coords": [
+      43.8588,
+      -79.4346
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "tailgate, crossdock",
+    "weight": 500,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-502",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986768P",
+    "pair": "2986768",
+    "leg": "Pickup",
+    "customer": "CUST-28E84D59",
+    "address": "3480 PHARMACY AVE  SCARBOROUGH ON CAN M1W 3G3",
+    "coords": [
+      43.7749,
+      -79.2431
+    ],
+    "service": "SAME DAY",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 471,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": "10:00",
+    "appointmentEnd": "12:00",
+    "status": "assigned",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986768D",
+    "pair": "2986768",
+    "leg": "Delivery",
+    "customer": "CUST-3336946C",
+    "address": "195 HARRY WALKER PKWY N NEWMARKET A ON CAN L3X 1A3",
+    "coords": [
+      43.6168,
+      -79.397
+    ],
+    "service": "SAME DAY",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 471,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 2,
+    "pieceType": "SKD",
+    "appointmentStart": "14:00",
+    "appointmentEnd": "16:00",
+    "status": "assigned",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986219D",
+    "pair": "2986219",
+    "leg": "Delivery",
+    "customer": "CUST-D6C8561D",
+    "address": "17780 YONGE STREET NEWMARKET  ON CAN L3Y 8A7",
+    "coords": [
+      43.6631,
+      -79.3877
+    ],
+    "service": "OVERNIGHT",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 160,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "PCS",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986981P",
+    "pair": "2986981",
+    "leg": "Pickup",
+    "customer": "CUST-BA21B50C",
+    "address": "81 PERFORMANCE DR  RICHMOND HILL ON CAN L4S 0L5",
+    "coords": [
+      43.8736,
+      -79.4656
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 2000,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 2,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986080D",
+    "pair": "2986080",
+    "leg": "Delivery",
+    "customer": "CUST-91FD9705",
+    "address": "7995 WINSTON CHURCHILL BLVD BRAMPTON  ON CAN L6Y 5Z4",
+    "coords": [
+      43.7088,
+      -79.7803
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "crossdock",
+    "weight": 9518,
+    "linearFt": 42,
+    "skids": 19,
+    "pieces": 21,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986519P",
+    "pair": "2986519",
+    "leg": "Pickup",
+    "customer": "CUST-DA26227F",
+    "address": "7 LORING DR  BOLTON ON CAN L7E 1Y1",
+    "coords": [
+      43.6272,
+      -79.3985
+    ],
+    "service": "RUSH",
+    "equipment": "53FT TRAILER",
+    "specialHandling": "",
+    "weight": 37519,
+    "linearFt": 62,
+    "skids": 31,
+    "pieces": 22,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "assigned",
+    "vehicle": "T-445",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986519D",
+    "pair": "2986519",
+    "leg": "Delivery",
+    "customer": "CUST-30249823",
+    "address": "81 MAYBROOK DR SCARBOROUGH  ON CAN M1V 2V6",
+    "coords": [
+      43.7602,
+      -79.2073
+    ],
+    "service": "RUSH",
+    "equipment": "53FT TRAILER",
+    "specialHandling": "",
+    "weight": 37519,
+    "linearFt": 62,
+    "skids": 31,
+    "pieces": 22,
+    "pieceType": "SKD",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "done",
+    "vehicle": "T-502",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "estimated",
+      "skids": "estimated",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986465P",
+    "pair": "2986465",
+    "leg": "Pickup",
+    "customer": "CUST-ED4EAA4E",
+    "address": "8041 FIFTH LINE  HALTON HILLS ON CAN L7G 0E2",
+    "coords": [
+      43.6118,
+      -79.3648
+    ],
+    "service": "RUSH",
+    "equipment": "53FT TRAILER",
+    "specialHandling": "",
+    "weight": 1,
+    "linearFt": null,
+    "skids": null,
+    "pieces": 1,
+    "pieceType": "SKD",
+    "appointmentStart": "10:00",
+    "appointmentEnd": "12:00",
+    "status": "done",
+    "vehicle": "T-108",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "missing",
+      "skids": "missing",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986783P",
+    "pair": "2986783",
+    "leg": "Pickup",
+    "customer": "CUST-229BCEFB",
+    "address": "120 TORO RD  TORONTO ON CAN M3J 2A9",
+    "coords": [
+      43.6264,
+      -79.4119
+    ],
+    "service": "SAME DAY",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 260,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": "13:00",
+    "appointmentEnd": "15:00",
+    "status": "done",
+    "vehicle": "T-112",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986783D",
+    "pair": "2986783",
+    "leg": "Delivery",
+    "customer": "CUST-FE05C8BA",
+    "address": "400 GREENWOOD AVE TORONTO  ON CAN M4J 4Y5",
+    "coords": [
+      43.6275,
+      -79.3995
+    ],
+    "service": "SAME DAY",
+    "equipment": "TRUCK",
+    "specialHandling": "",
+    "weight": 260,
+    "linearFt": 2,
+    "skids": 1,
+    "pieces": 1,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "done",
+    "vehicle": "T-205",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  },
+  {
+    "id": "2986729D",
+    "pair": "2986729",
+    "leg": "Delivery",
+    "customer": "CUST-F0FCA203",
+    "address": "100 BROADVIEW AVE TORONTO SUITE 200 ON CAN M4M 3H3",
+    "coords": [
+      43.6494,
+      -79.4114
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "crossdock",
+    "weight": 3069,
+    "linearFt": 12,
+    "skids": 7,
+    "pieces": 5,
+    "pieceType": "SKD",
+    "appointmentStart": "14:00",
+    "appointmentEnd": "16:00",
+    "status": "done",
+    "vehicle": "T-301",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "provided"
+    }
+  },
+  {
+    "id": "2986828P",
+    "pair": "2986828",
+    "leg": "Pickup",
+    "customer": "CUST-1AEA2890",
+    "address": "46 DUFFLAW RD 7-8 TORONTO ON CAN M6A 2W1",
+    "coords": [
+      43.6711,
+      -79.3921
+    ],
+    "service": "LTL",
+    "equipment": "TRUCK",
+    "specialHandling": "crossdock",
+    "weight": 1848,
+    "linearFt": 16,
+    "skids": 8,
+    "pieces": 8,
+    "pieceType": "PLT",
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "status": "done",
+    "vehicle": "T-315",
+    "confidence": {
+      "weight": "provided",
+      "linearFt": "provided",
+      "skids": "provided",
+      "appointment": "missing"
+    }
+  }
+]
